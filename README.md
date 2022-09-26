@@ -1,6 +1,6 @@
 <h2>Hi, I’m Vijay Choudhary 👋</h2>
 
-- 👀 I’m interested machine learning, Cyber Security, Open Source Contribution.
+- 👀 I’m interested machine learning, data Structure, Open Source Contribution.
 - 🌱 I’m currently learning DSA, DBMS & AI.
 - 💬 Ask me about machine learning or any tech-related stuff.
 - 📫 How to reach me: [Instagram - @itsvijaychoudhary](https://www.instagram.com/itsvijaychoudhary/) .
@@ -16,6 +16,8 @@
 <a href="https://instagram.com/itsvijaychoudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="heysaiyad" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/vijaychoudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="[CodingNagri](https://www.youtube.com/channel/UCH1qaovJ_E86JNJfiOB-nrA)" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/itsvijaychoudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="itsvjaychoudhary" height="30" width="40" /></a>
+</p>
+<a href="https://codeforces.com/profile/itsvijaychoudhary#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
