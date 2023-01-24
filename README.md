@@ -5,7 +5,7 @@
 - 💬 Ask me about machine learning or any tech-related stuff.
 - 📫 How to reach me: [Twitter - @_vijaychoudhary](https://twitter.com/_vijaychoudhary) .
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 1 hours playing table tennis every day.
+- ⚡ Fun fact: I spend almost 1 hours Video Editing every day.
 <img src="https://github-readme-stats.vercel.app/api?username=itsvijaychoudhary&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 
