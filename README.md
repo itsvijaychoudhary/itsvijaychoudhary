@@ -12,9 +12,6 @@
 <p align="left">
 <a href="https://twitter.com/@_vijaychoudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="heysaiyad" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vijaychoudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="heysaiyad" height="30" width="40" /></a>
-<a href="https://instagram.com/itsvijaychoudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="heysaiyad" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/vijaychoudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="[CodingNagri](https://www.youtube.com/channel/UCH1qaovJ_E86JNJfiOB-nrA)" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/itsvijaychoudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="itsvjaychoudhary" height="30" width="40" /></a>
 </p>
 <a href="https://codeforces.com/profile/itsvijaychoudhary#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces" height="30" width="40" /></a>
 </p>
